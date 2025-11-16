@@ -13,6 +13,22 @@
 </div>
 
 ---
+## UI Design Preview
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Desktop View</th>
+    <th>Mobile View</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dhall-afdhal/caffe-main-dha-production/main/company-profile-cafe-main/img/Ui%20destop1.png" width="450"/></td>
+    <td><img src="https://raw.githubusercontent.com/dhall-afdhal/caffe-main-dha-production/main/company-profile-cafe-main/img/Ui.png" width="250"/></td>
+  </tr>
+</table>
+
+</div>
 
 ## 📖 Tentang Website
 
@@ -411,4 +427,5 @@ Dilarang menyalin, memodifikasi, atau mendistribusikan ulang sebagian atau selur
 Made with ❤️ by [Afdhal](https://github.com/dhall-afdhal) | DHA Production
 
 </div>
+
 
